@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+pdfplumber
+faiss-cpu
+sse-starlette
+python-multipart
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentence-transformers
+
+numpy<2.0.0
+
+llama-cpp-python

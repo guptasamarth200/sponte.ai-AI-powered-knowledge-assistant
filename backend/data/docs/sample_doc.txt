@@ -1,0 +1,22 @@
+A complete guide to Mars:
+Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System. It is frequently described as the 'Red Planet' due to its reddish appearance, which is caused by iron oxide (rust) on its surface. 
+
+Mars has two small, irregularly shaped moons named Phobos and Deimos. The atmosphere of Mars is very thin and consists mostly of carbon dioxide, with traces of nitrogen and argon. 
+
+The average temperature on Mars is about minus 80 degrees Fahrenheit (minus 60 degrees Celsius), although it can vary from minus 195 F near the poles during the winter to a comfortable 70 F at midday near the equator.
+
+---
+
+The Evolution of Artificial Intelligence:
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. Early AI research in the 1950s explored topics like problem solving and symbolic methods. In the 1960s, the US Department of Defense took interest in this type of work and began training computers to mimic basic human reasoning.
+
+Modern AI models, particularly Large Language Models (LLMs), rely heavily on deep learning and neural networks. A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.
+
+Retrieval-Augmented Generation (RAG):
+RAG is an AI framework for improving the quality of LLM-generated responses by grounding the model on external sources of knowledge to supplement the general information it relies on. By retrieving relevant documents from a vector database (like FAISS or Chroma), the LLM can generate highly accurate, domain-specific answers without suffering from hallucinations.
+
+Vector Databases:
+In the context of machine learning, a vector database stores high-dimensional embeddings. When a user asks a question, the text is converted into a vector. The database then performs a similarity search (like computing cosine similarity or L2 distance) to find the closest matching text chunks to provide as context.
+
+Docker Initialization:
+Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries, and configuration files; they can communicate with each other through well-defined channels. All containers are run by a single operating system kernel and therefore use fewer resources than virtual machines.
